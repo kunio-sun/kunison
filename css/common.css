@@ -243,7 +243,9 @@ main {
 }
 
 /* --map section */
-
+.map_wrap{
+  margin: 0 auto;
+}
 .map {
   position: relative;
   display: flex;
